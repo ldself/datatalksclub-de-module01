@@ -1,4 +1,4 @@
-# DataTalks.Club Data Engineering Zoomcamp - Module 1 Homework
+# DataTalks.Club Data Engineering Zoomcamp - Module 1
 
 This repository contains my solutions for Module 1 (Docker & Terraform) homework from the [DataTalks.Club Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp).
 
